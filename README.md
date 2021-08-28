@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Taimoor Shah,   who wants to chnage the world with innovation
+- 👋 Hi, I’m Taimoor Shah,  someone who wants to change the world with innovation
 - 👀 I’m interested in creating games and desktop apllications as well as in web.
 - 🌱 I’m currently learning C# and web development
 - 💞️ I’m looking to collaborate on web projects
