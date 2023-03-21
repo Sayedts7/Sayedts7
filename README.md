@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on flutter projects
 - 📫 How to reach me facebook(sayedts) and twitter (@sayedts7)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/sayedts9/github-readme-stats)
+[![Sayedts7's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayedts7)](https://github.com/sayedt79/github-readme-stats)
 
 
 
