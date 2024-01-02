@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Flutter App Development
 - 💞️ I’m looking to collaborate on flutter projects
 - 📫 How to reach me facebook(sayedts) and twitter (@sayedts7)
+- 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/syed-taimoor-shah-811497219/
 
 [![Sayedts7's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayedts7)](https://github.com/sayedt79/github-readme-stats)
 
