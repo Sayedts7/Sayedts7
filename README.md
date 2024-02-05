@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Taimoor Shah,  someone who wants to change the world with innovation
-- 👀 I’m interested in creating andriod apps as well as iOS apps
-- 🌱 I’m currently learning Flutter App Development
-- 💞️ I’m looking to collaborate on flutter projects
+- 👀 I’m a flutter developer.
 - 📫 How to reach me facebook(sayedts) and twitter (@sayedts7)
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/syed-taimoor-shah-811497219/
 
